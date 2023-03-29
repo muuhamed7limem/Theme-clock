@@ -1,2 +1,2 @@
 # Theme-clock
-https://velvety-taiyaki-b8f3dc.netlify.app/
+https://cozy-kataifi-f7f40a.netlify.app
